@@ -1,0 +1,11 @@
+# SAS Temporary, Log, and Listing Files
+*.log
+*.lst
+*.sas7bndx
+.sas7bdat.lck
+work/
+
+# OS and Editor Junk
+.DS_Store
+Thumbs.db
+.vscode/
